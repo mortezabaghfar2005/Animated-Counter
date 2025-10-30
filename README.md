@@ -1,4 +1,4 @@
-#Animated Counter 
+# Animated Counter 
 
 ## In This Project I Used HTML, CSS and **JS**.
 
